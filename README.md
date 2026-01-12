@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Viraj Kumar</h1>
 <h3 align="center">A Computer Science student from India, focused on core programming and problem-solving</h3>
 
-- 🔭 I’m currently working on [C, Python & Java based academic projects (Data Structures, File Handling, Stack & Expression Evaluation)](Currently private — will be shared once ready)
+- 🔭 I’m currently working on Python & Java based academic projects.
+- (projects are Currently private — will be shared once ready)
 
 - 🌱 I’m currently learning **OOPs (java), DSA, Operating System**
 
 - 👨‍💻 All of my projects are available at (Coming soon)
 
-- 📝 I regularly write articles on [Not started yet](Not started yet)
+- 📝 I regularly write articles on (Not started yet)
 
 - 📫 How to reach me **virajk748@gmail.com**
 
