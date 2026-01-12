@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **OOPs (java), DSA, Operating System**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at (Coming soon)
 
 - 📝 I regularly write articles on [Not started yet](Not started yet)
 
 - 📫 How to reach me **virajk748@gmail.com**
 
-- 📄 Know about my experiences [Academic projects and hands-on practice in core programming](Academic projects and hands-on practice in core programming)
+- 📄 Know about my experiences (Academic projects and hands-on practice in core programming)
 
 - ⚡ Fun fact **I enjoy breaking code more than writing it, debugging taught me more than tutorials**
 
